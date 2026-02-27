@@ -2,12 +2,14 @@
 
 A classic tic-tac-toe game built with React while learning the fundamentals of the library.
 
+<img width="1701" height="1306" alt="image" src="https://github.com/user-attachments/assets/f640eaa5-e9ab-413c-ba6f-e21991d6acc8" />
+
+
 ## What I used
 
 - **React 19** — components, props, JSX
 - **Vite** — fast dev server and build tool
 - **useState** — for managing game turns, player names, and edit mode
-- **CSS** — plain CSS for styling, no frameworks
 
 ## What I learned
 
